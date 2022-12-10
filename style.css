@@ -1,0 +1,101 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0vh;
+}
+
+.vela{
+    width: 120px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.navegador{
+    width: 100%;
+    background-color: #ffe3b3;    
+}
+
+.navgrid{
+    height: 10%;
+    margin-right: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#titulo{
+    font-size:45px;
+    font-weight:bolder;
+    color: #56704b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#sobre{
+    font-size: 25px;
+    font-weight: bold;
+    color: #f57b50;
+}
+
+/* paguna */
+.pagina{
+    background-color: #56704b;
+    width: 100%;
+    height: 100%;
+    display: block;
+    align-self: center;
+}
+
+#cheiro{
+    width: 35px;
+    margin-top: 100px;
+}
+
+.imagem1{
+    width:65%;
+    display: flex;
+    justify-content:flex-end;
+}
+
+.conteudo{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.texto{
+    position: relative;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    color:  #ffe3b3 ;
+}
+
+.frase{
+    font-size: 40px;
+    font-weight: 500px;
+    font-style: oblique;
+}
+
+.autor{
+    font-size: 25px;
+    font-weight: 700;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#logo{
+    width: 250px;
+}
+
+#ultimaimg{
+    width: 60px;
+    margin-bottom: 18px;
+}
+
+.imagem2{
+    width: 88%;
+    display: flex;
+    justify-content: flex-end;
+    
+}
